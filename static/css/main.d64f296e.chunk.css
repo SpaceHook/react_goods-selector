@@ -1,0 +1,2 @@
+.good{display:flex;flex-direction:column;width:30vw;margin:0 auto;text-align:center;font-weight:700;border:3px solid #000;border-radius:20px;padding:0 50px 50px;grid-gap:10px;gap:10px;background-color:#d9dbc1}.good__title{font-size:20px;font-weight:700}.good__list{display:flex;flex-direction:column;grid-gap:10px;gap:10px}.good__element{display:flex;justify-content:space-between}.good__clear--hidden{visibility:hidden}
+/*# sourceMappingURL=main.d64f296e.chunk.css.map */
